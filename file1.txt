@@ -1,2 +1,4 @@
+ADDED FEATURE 1
+
 file 1
 
