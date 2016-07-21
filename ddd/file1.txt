@@ -1,3 +1,5 @@
+#define DEBUG_LOADFAST
+
 ADDED FEATURE 1
 add feature 2
 
@@ -6,7 +8,7 @@ file 1
 
 sfds
 <fieldset><fieldset>ds</fieldset></fieldset>
-sada
+sadaasd
 DEV DEV Again
 
 console.log("shit data");
