@@ -1,4 +1,4 @@
-//#define DEBUG_LOADFAST
+#define DEBUG_LOADFAST
 
 
 ADDED FEATURE 1
@@ -6,7 +6,7 @@ add feature 2
 
 file 1
 adasdsasds
-
+aaaaaaaahahahahaha
 sfds
 <fieldset><fieldset>ds</fieldset></fieldset>
 sadaasd
